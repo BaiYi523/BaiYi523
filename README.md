@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">

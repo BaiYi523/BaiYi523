@@ -41,7 +41,6 @@
 - ⛺️ I have a private site: [白衣少年の主页](https://www.toolka.cn/), you're welcome to come! ~
 - 📨 My email address is `beimuusu@foxmail.com` Welcome to contact me 👏🏻 ~
 
-
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaiYi523/BaiYi523/e588dcbd5b61f881e6c20210f14a44134ba2b73c/github-contribution-grid-snake-dark.svg" />
